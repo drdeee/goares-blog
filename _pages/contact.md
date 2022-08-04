@@ -8,4 +8,4 @@ title:     Kontakt
 ---
 
 
-Du hast anonyme Hinweise über Go:Ares? Dann schreibe gerne an aliceirgendwer@protonmail.com
+Du hast Hinweise über Go:Ares? Dann schreibe gerne an <a href="mailto:Alice-Ermittlungen@protonmail.com">Alice-Ermittlungen@protonmail.com</a>
