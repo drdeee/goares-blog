@@ -12,7 +12,7 @@ description:      Beschreibung hier einfügen
 keywords:         demo theme example github jekyll features
 language:         "de" # default language of the blog. Language codes: http://www.w3schools.com/tags/ref_language_codes.asp
 
-baseurl:          "/goares-blog" # the subpath of your site, e.g. /blog
+baseurl:          "/" # the subpath of your site, e.g. /blog
 url:              "" # the base hostname & protocol for your site. Have a look at robots.txt as well!
 permalink:        /blog/:categories/:title
 cover:            /assets/cover.png
