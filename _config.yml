@@ -18,6 +18,7 @@ permalink:        /blog/:categories/:title
 cover:            /assets/cover.png
 disqus_shortname: "jekylldecent"
 
+future: true
 # Build settings
 sass:
     style: compressed
