@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#3 Brackwedel erzählt sein Business Geheimnis"
+title: "#2 Brackling GmbH"
 ---
 
 Ich fange am besten von vorne an. Meine ganzen Notizen sind bis hierhin handschriftlich oder auf dem Handy, deshalb wird es wahrscheinlich eine Weile dauern bis ich alles zusammengesucht, entziffert und abgeschrieben habe, immerhin sind diese Notizen die gesammelten Werke aus anderthalb Jahren.
