@@ -1,5 +1,4 @@
 window.addEventListener("load", () => {
-  window.document.body.classList.add("c_darkmode");
   var cc = initCookieConsent();
 
   // run plugin with your configuration
@@ -40,7 +39,7 @@ window.addEventListener("load", () => {
           close_btn_label: "Schließen",
           blocks: [
             {
-              title: "Notwendige daten",
+              title: "Notwendige Daten",
               description: "damit wir wissen ob der Cookie Banner geglicked wurde",
               toggle: {
                 value: "cookiebanner",
