@@ -5,7 +5,7 @@ author:    joris
 weight:    5
 menutitle: Datenschutz
 title:     Datenschutzerklärung
-excerpt:   If you click on the link below it will render all content of the blog in one site. This can take some time!
+excerpt:   Nutzung von Google Analytics
 ---
 
 Nutzung von Google Analytics
