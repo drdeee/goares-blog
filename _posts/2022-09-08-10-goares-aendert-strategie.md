@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#10 Go:Ares goes public"
+title: "#10 Go:Ares änderte die Strategie"
 ---
 
 Es gibt Neuigkeiten. Und die sehen gar nicht gut aus.
